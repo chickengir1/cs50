@@ -5,7 +5,7 @@ float average(int length, int array[]);
 
 int main(void)
 {
-    int n = get_int(": ");
+    int n = get_int("점수의 개수: ");
 
     int scores[n];
 
